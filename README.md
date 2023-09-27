@@ -47,7 +47,7 @@ Os dados transformados, incluindo as mensagens personalizadas, são convertidos 
 
 5. Os dados transformados serão armazenados em `projeto_ETL_IA_generativa.csv.`
 
-##   _____________________________________________________________________________________________________
+##   ___________________________________________________________________________________
 Este projeto é apenas um exemplo e pode ser adaptado para suas necessidades específicas. Sinta-se à vontade para substituir a função de IA generativa por uma implementação personalizada.
 
 Para mais informações sobre a utilização e licenciamento da API OpenAI, consulte https://openai.com.
