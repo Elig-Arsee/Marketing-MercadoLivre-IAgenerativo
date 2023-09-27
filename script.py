@@ -78,7 +78,7 @@ print(df.head())
 import openai
 
 # Configure sua chave de API da OpenAI
-api_key = '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'
+api_key = 'sua chave api'
 
 # Função para gerar mensagens personalizadas
 def gerar_mensagem_personalizada(titulo, desconto, preco_final, link_produto):
